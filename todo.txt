@@ -1,5 +1,5 @@
-Get pip working with Shelob
-localise everything with "Pip Freeze"
-get getpass working on shelob
-add custom Readme to Github profile
-
+[] Get pip working with Shelob
+[] localise everything with "Pip Freeze"
+[] get getpass working on shelob
+[x] add custom Readme to Github profile
+[x] cry
