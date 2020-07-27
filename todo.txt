@@ -1,5 +1,7 @@
 - [x] Get pip working with Shelob
-- [ ] localise everything with "Pip Freeze"/docker file
-- [ ] get getpass working on shelob
+- [ ] localise everything with "Pip Freeze"/docker file?
+- [x] get getpass working on shelob (use cmd prompt not MINGW64)
 - [x] create custom README for github profile
 - [x] cry
+- [ ] Make Star Wars Game run through to save_config
+- [ ] Start adding story elements and battles
