@@ -1,4 +1,4 @@
-- [ ] Get pip working with Shelob
+- [x] Get pip working with Shelob
 - [ ] localise everything with "Pip Freeze"/docker file
 - [ ] get getpass working on shelob
 - [x] create custom README for github profile
