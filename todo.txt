@@ -1,7 +1,29 @@
+###############
+General
+###############
 - [x] Get pip working with Shelob
 - [ ] localise everything with "Pip Freeze"/docker file?
 - [x] get getpass working on shelob (use cmd prompt not MINGW64)
 - [x] create custom README for github profile
 - [x] cry
-- [ ] Make Star Wars Game run through to save_config
+
+###############
+Frank
+###############
+- [ ] Create Frank in C#. I don't want to do this right now, but it'll happen at some point
+
+###############
+Curses program
+###############
+- [ ] It won't run on windows because curses is Mac/Linux only
+- [ ] Get it to do something more than just create an empty box that cannot be interacted with?
+- [ ] Create a player avatar
+- [ ] Make generated "Rooms" contain items like gold
+- [ ] Create enemies
+
+###############
+Star Wars Game
+###############
+- [x] Make Star Wars Game run through to save_config
 - [ ] Start adding story elements and battles
+- [ ] create turn based battle system in battle.py
