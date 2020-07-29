@@ -1,13 +1,17 @@
-IAIN'S TODO LIST FOR HIS VARIOUS PROGRAMS
+
+
+IAIN'S TODO LIST FOR HIS VARIOUS THINGS
 
 ###############
 General
 ###############
 - [x] Get pip working with Shelob
 - [ ] localise everything with "Pip Freeze"/docker file?
-- [x] get getpass working on shelob (use cmd prompt not MINGW64)
+- [x] get getpass working on shelob (use cmd prompt not MINGW64(This ended up being easier than I expected))
 - [x] create custom README for github profile
 - [x] cry
+- [ ] Disk tidy up Laptop
+- [ ] Set up a bootable USB drive with Arch Linux/some other primarily text based operating system
 
 ###############
 Frank
@@ -22,6 +26,7 @@ Curses program
 - [ ] Create a player avatar
 - [ ] Make generated "Rooms" contain items like gold
 - [ ] Create enemies
+- [ ] Cry because everything is hard
 
 ###############
 Star Wars Game
