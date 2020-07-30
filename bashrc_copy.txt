@@ -1,0 +1,6 @@
+export BASH_SILENCE_DEPRECATION_WARNING=1
+#Stop the annoying "Upgrade to zsh message (although I may yet upgrade)"
+
+alias c="clear"
+alias la="ls -a"
+alias l="ls"
