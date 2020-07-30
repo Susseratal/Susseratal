@@ -10,7 +10,7 @@ General
 - [x] get getpass working on shelob (use cmd prompt not MINGW64(This ended up being easier than I expected))
 - [x] create custom README for github profile
 - [x] cry
-- [ ] Disk tidy up Laptop
+- [x] Disk tidy up Laptop (I freed up a stonking great 20 gig, just in loose files!)
 - [ ] Set up a bootable USB drive with Arch Linux/some other primarily text based operating system
 
 ###############
