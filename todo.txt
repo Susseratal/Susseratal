@@ -11,6 +11,7 @@ General
 - [x] cry
 - [x] Disk tidy up Laptop (I freed up a stonking great 20 gig, just in loose files!)
 - [ ] Set up a bootable USB drive with Arch Linux/some other primarily text based operating system
+- [ ] Backup laptop
 
 Frank
 ###############
