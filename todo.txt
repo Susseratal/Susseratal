@@ -14,6 +14,14 @@ General
 - [ ] Backup laptop
 - [ ] Create a website. I want a website (using python)
 
+Games design stuff
+###############
+- [ ] Start working with the Unreal Engine
+        - [ ] Playable demo
+        - [ ] Basic HUD elements
+        - [ ] NPC with dialogue interface
+        - [ ] Inventory system
+
 Frank
 ###############
 - [ ] Create Frank in C#. I don't want to do this right now, but it'll happen at some point
@@ -39,3 +47,23 @@ Curses program
 - [ ] Make generated "Rooms" contain items like gold
 - [ ] Create enemies
 - [ ] Cry because everything is hard
+
+Website
+###############
+- [ ] Website?
+
+Videos
+###############
+- [ ] Ratchet and Clank
+        - [ ] Finish recording script
+        - [ ] Finish editing the original scene
+        - [ ] Finish editing the reboot scene
+        - [ ] Finish editing the compare and contrast scene
+        - [ ] Finish editing the conclusion
+        - [ ] Put it all together
+- [ ] RDR2
+        - [ ] Everything
+- [ ] Fallout 4
+        - [ ] Everything
+- [ ] Persona 5
+        - [ ] Everything
