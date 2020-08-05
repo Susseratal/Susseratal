@@ -13,9 +13,11 @@ General
 - [ ] Set up a bootable USB drive with Arch Linux/some other primarily text based operating system
 - [x] Backup laptop
 - [ ] Create a website. I want a website (using jekyll)
+- [ ] Screw Jekyll I hate jekyll. It doesn't work
 
 Games design stuff
 ###############
+- [ ] Video games are stupid
 - [ ] Start working with the Unreal Engine
         - [ ] Playable demo
         - [ ] Basic HUD elements
@@ -28,6 +30,7 @@ Frank
 
 Star Wars Game
 ###############
+- [ ] Screw star wars. Star Trek is better
 - [x] Make Star Wars Game run through to save_config
 - [ ] create turn based battle system in battle.py
         - [ ] The first move should do moderate damage and has a small range (such as 18-25)
@@ -41,6 +44,7 @@ Star Wars Game
 
 Curses program
 ###############
+- [ ] Frick everything about curses I want nothing to do with it
 - [ ] It won't run on windows because curses is Mac/Linux only
 - [ ] Get it to do something more than just create an empty box that cannot be interacted with?
 - [ ] Create a player avatar
@@ -51,11 +55,17 @@ Curses program
 Website
 ###############
 - [ ] Website?
+- [ ] >:(
 
 Videos
 ###############
 - [ ] Ratchet and Clank
         - [ ] Finish recording script
+                - [ ] Finish original game section
+                - [ ] Finish reboot game section
+                - [ ] Finish Compare and contrast
+                - [ ] Finish Movie section
+                - [ ] Finish Conclusion
         - [ ] Finish editing the original scene
         - [ ] Finish editing the reboot scene
         - [ ] Finish editing the compare and contrast scene
