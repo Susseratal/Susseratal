@@ -61,7 +61,7 @@ Videos
 ###############
 - [ ] Ratchet and Clank
         - [ ] Finish recording script
-                - [ ] Finish original game section
+                - [x] Finish original game section
                 - [ ] Finish reboot game section
                 - [ ] Finish Compare and contrast
                 - [ ] Finish Movie section
