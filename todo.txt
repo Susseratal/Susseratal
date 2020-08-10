@@ -28,6 +28,10 @@ Frank
 ###############
 - [ ] Create Frank in C#. I don't want to do this right now, but it'll happen at some point
 
+Discord bot
+###############
+-[ ] Discord bot?
+
 Star Wars Game
 ###############
 - [ ] Screw star wars. Star Trek is better
