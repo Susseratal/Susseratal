@@ -12,6 +12,7 @@ General
 - [ ] Set up a bootable USB drive with Arch Linux/some other primarily text based operating system
 - [x] Backup laptop
 - [ ] Create a website. I want a website (using jekyll)
+- [ ] Rebuild laptop's plugins. Uninstall and reinstall everything (python, jekyll, zim etc) to ensure that all paths work and all is working
 
 Games design stuff
 ###############
