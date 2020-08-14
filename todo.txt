@@ -5,14 +5,12 @@ IAIN'S TODO LIST FOR HIS VARIOUS THINGS
 General
 ###############
 - [x] Get pip working with Shelob
-- [ ] localise everything with "Pip Freeze"/docker file?
 - [x] get getpass working on shelob (use cmd prompt not MINGW64(This ended up being easier than I expected))
 - [x] create custom README for github profile
 - [x] cry
 - [x] Disk tidy up Laptop (I freed up a stonking great 20 gig, just in loose files!)
 - [ ] Set up a bootable USB drive with Arch Linux/some other primarily text based operating system
 - [x] Backup laptop
-- [ ] Create a website. I want a website (using jekyll)
 
 Games design stuff
 ###############
@@ -48,22 +46,34 @@ Curses program
 - [ ] Create enemies
 - [ ] Cry because everything is hard
 
+Email Client UI
+###############
+- [x] Create an account and log back in
+- [x] Send emails from that account
+- [ ] Create "aliases" to save people email address
+- [ ] Recieve emails
+
 Website
 ###############
 - [ ] Website?
+- [ ] Get Jekyll working
 
 Videos
 ###############
 - [ ] Ratchet and Clank
-        - [ ] Finish recording script
+        - [x] Finish recording script
+        - [ ] Thumbnail
         - [ ] Finish editing the original scene
         - [ ] Finish editing the reboot scene
-        - [ ] Finish editing the compare and contrast scene
-        - [ ] Finish editing the conclusion
+        - [x] Finish editing the compare and contrast scene
+        - [x] Finish editing the conclusion
         - [ ] Put it all together
+        - [ ] Upload
 - [ ] RDR2
         - [ ] Everything
 - [ ] Fallout 4
         - [ ] Everything
-- [ ] Persona 5
+- [ ] Elite Dangrous
+        - [ ] Everything
+- [ ] Subnautica
         - [ ] Everything
