@@ -12,7 +12,6 @@ General
 - [ ] Set up a bootable USB drive with Arch Linux/some other primarily text based operating system
 - [x] Backup laptop
 - [ ] Create a website. I want a website (using jekyll)
-- [ ] Rebuild laptop's plugins. Uninstall and reinstall everything (python, jekyll, zim etc) to ensure that all paths work and all is working
 
 Games design stuff
 ###############
@@ -33,7 +32,6 @@ Discord bot
 
 Star Wars Game
 ###############
-- [ ] Screw star wars. Star Trek is better
 - [x] Make Star Wars Game run through to save_config
 - [ ] create turn based battle system in battle.py
         - [ ] The first move should do moderate damage and has a small range (such as 18-25)
@@ -69,21 +67,7 @@ Website
 
 Videos
 ###############
-- [ ] Ratchet and Clank
-        - [x] Finish recording script
-        - [x] Thumbnail
-        - [ ] Finish recording script
-                - [x] Finish original game section
-                - [x] Finish reboot game section
-                - [x] Finish Compare and contrast
-                - [x] Finish Movie section
-                - [x] Finish Conclusion
-        - [x] Finish editing the original scene
-        - [ ] Finish editing the reboot scene
-        - [x] Finish editing the compare and contrast scene
-        - [x] Finish editing the conclusion
-        - [ ] Put it all together
-        - [ ] Upload
+- [x] Ratchet and Clank
 - [ ] RDR2
         - [ ] Everything
 - [ ] The Post Space Trilogy
