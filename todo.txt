@@ -15,9 +15,9 @@ General
 
 Games design stuff
 ###############
-- [ ] Video games are stupid
-- [ ] Start working with the Unreal Engine
-        - [ ] Playable demo
+- [x] Video games are stupid
+- [x] Start working with the Unreal Engine
+        - [x] Playable demo
         - [ ] Basic HUD elements
         - [ ] NPC with dialogue interface
         - [ ] Inventory system
