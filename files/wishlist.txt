@@ -11,5 +11,5 @@ IMPORTINT:
 NOT IMPORTINT:
 ##############
 Dark Souls 2: Scholar of the first sin
-Devil May Cry 5
 Star Wars: Jedi Fallen Order
+Persona 5 Royal
