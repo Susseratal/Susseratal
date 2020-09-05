@@ -9,18 +9,14 @@ General
 - [x] create custom README for github profile
 - [x] cry
 - [x] Disk tidy up Laptop (I freed up a stonking great 20 gig, just in loose files!)
-- [ ] Set up a bootable USB drive with Arch Linux/some other primarily text based operating system
+- [x] Set up a bootable USB drive with Arch Linux/some other primarily text based operating system
 - [x] Backup laptop
-- [ ] Create a website. I want a website (using jekyll)
 
 Games design stuff
 ###############
 - [x] Video games are stupid
 - [x] Start working with the Unreal Engine
-        - [x] Playable demo
-        - [ ] Basic HUD elements
-        - [ ] NPC with dialogue interface
-        - [ ] Inventory system
+- [ ] School stuff basically
 
 Frank
 ###############
@@ -62,8 +58,8 @@ Email Client UI
 
 Website
 ###############
-- [ ] Website?
-- [ ] Get Jekyll working
+- [x] Website?
+- [x] Get Jekyll working
 
 Videos
 ###############
@@ -75,5 +71,5 @@ Videos
                 - [ ] Everything
         - [ ] Subnautica
                 - [ ] Everything
-        - [ ] Fallout 4
-                - [ ] Everything
+- [ ] Fallout 4
+        - [ ] Everything
