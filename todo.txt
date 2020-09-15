@@ -5,32 +5,29 @@ IAIN'S TODO LIST FOR HIS VARIOUS THINGS
 General
 ###############
 - [x] Get pip working with Shelob
-- [ ] localise everything with "Pip Freeze"/docker file?
 - [x] get getpass working on shelob (use cmd prompt not MINGW64(This ended up being easier than I expected))
 - [x] create custom README for github profile
 - [x] cry
 - [x] Disk tidy up Laptop (I freed up a stonking great 20 gig, just in loose files!)
-- [ ] Set up a bootable USB drive with Arch Linux/some other primarily text based operating system
+- [x] Set up a bootable USB drive with Arch Linux/some other primarily text based operating system
 - [x] Backup laptop
-- [ ] Create a website. I want a website (using jekyll)
-- [ ] Screw Jekyll I hate jekyll. It doesn't work
 
 Games design stuff
 ###############
-- [ ] Video games are stupid
-- [ ] Start working with the Unreal Engine
-        - [ ] Playable demo
-        - [ ] Basic HUD elements
-        - [ ] NPC with dialogue interface
-        - [ ] Inventory system
+- [x] Video games are stupid
+- [x] Start working with the Unreal Engine
+- [ ] School stuff basically
 
 Frank
 ###############
 - [ ] Create Frank in C#. I don't want to do this right now, but it'll happen at some point
 
+Discord bot
+###############
+-[ ] Discord bot?
+
 Star Wars Game
 ###############
-- [ ] Screw star wars. Star Trek is better
 - [x] Make Star Wars Game run through to save_config
 - [ ] create turn based battle system in battle.py
         - [ ] The first move should do moderate damage and has a small range (such as 18-25)
@@ -52,28 +49,27 @@ Curses program
 - [ ] Create enemies
 - [ ] Cry because everything is hard
 
+Email Client UI
+###############
+- [x] Create an account and log back in
+- [x] Send emails from that account
+- [ ] Create "aliases" to save people email address
+- [ ] Recieve emails
+
 Website
 ###############
-- [ ] Website?
-- [ ] >:(
+- [x] Website?
+- [x] Get Jekyll working
 
 Videos
 ###############
-- [ ] Ratchet and Clank
-        - [ ] Finish recording script
-                - [ ] Finish original game section
-                - [ ] Finish reboot game section
-                - [ ] Finish Compare and contrast
-                - [ ] Finish Movie section
-                - [ ] Finish Conclusion
-        - [ ] Finish editing the original scene
-        - [ ] Finish editing the reboot scene
-        - [ ] Finish editing the compare and contrast scene
-        - [ ] Finish editing the conclusion
-        - [ ] Put it all together
+- [x] Ratchet and Clank
 - [ ] RDR2
         - [ ] Everything
+- [ ] The Post Space Trilogy
+        - [ ] Elite Dangerous
+                - [ ] Everything
+        - [ ] Subnautica
+                - [ ] Everything
 - [ ] Fallout 4
-        - [ ] Everything
-- [ ] Persona 5
         - [ ] Everything

@@ -1,11 +1,7 @@
 
 ALL ABOUT ME! YOU MAY NOT BE INTERESTED, BUT IT'S HERE
 
-Links
-###########
-Sometimes I make videos about video games on Youtube: https://www.youtube.com/channel/UC0iPDOFyP_TlPgiKEZT1i8g
-
-I periodically say something stupid on Twitter: https://twitter.com/jtfjyrx
+(This information is also available on the about page of my website)
 
 Hardware:
 ###########
@@ -14,9 +10,6 @@ I custom built my PC (Shelob):
         RAM - 8 Gigabytes of DDR3 RAM (soon to be 16 gig)
         Graphics card - GeForce 1660 Super
         Keyboard - Tyrfing V2 with OUTEMU blue switches
-
-I also have a laptop (Andromeda):
-        Macbook air
 
 Software:
 ############
@@ -37,7 +30,7 @@ I play the guitar sometimes
 I do a lot of Programming (Which I intend to go on to do professionally in games design)
 
 
-I listen to a lot of music while I do stuff:
+I listen to a lot of music while I do stuff (This music is some of the best):
         The Sisters of Mercy
         Metallica
         Gary Neuman
