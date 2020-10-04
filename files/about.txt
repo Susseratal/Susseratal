@@ -9,7 +9,7 @@ I custom built my PC (Shelob):
         PSU - RM750
         Motherboard - Gigabyte B450M DS3H
         CPU - AMD Ryzen 5 2600X @ 3.6GHz 
-        RAM - 16 Gig Crucial BALLISTIX gaming memory
+        RAM - 16 Gigabytes DDR4 Crucial BALLISTIX gaming memory
         Graphics card - GeForce 1660 Super
         Keyboard - Tyrfing V2 with OUTEMU blue switches
         Mouse - Basic bitch mouse
