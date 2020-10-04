@@ -6,15 +6,20 @@ ALL ABOUT ME! YOU MAY NOT BE INTERESTED, BUT IT'S HERE
 Hardware:
 ###########
 I custom built my PC (Shelob):
-        CPU - Intel core i5 3570k
-        RAM - 8 Gigabytes of DDR3 RAM (soon to be 16 gig)
+        PSU - RM750
+        Motherboard - Gigabyte B450M DS3H
+        CPU - AMD Ryzen 5 2600X @ 3.6GHz 
+        RAM - 16 Gig Crucial BALLISTIX gaming memory
         Graphics card - GeForce 1660 Super
         Keyboard - Tyrfing V2 with OUTEMU blue switches
+        Mouse - Basic bitch mouse
 
 Software:
 ############
-I use bash as my preferred terminal (On Shelob, I use MINGW64 so I can still use bash)
-I use Vi/Vim as my preferred editor
+Terminal - Bash (Windows I use MINGW64)
+Text editor - Vi/Vim
+Browser - Qutebrowser if I'm in a situation where I'm just using my keyboard
+Secondary Browser - Opera
 I will include copies of my bashrc and vimrc files if you're interested
 
 Things I generally like:
@@ -28,7 +33,6 @@ Video games (Which I recommend):
 I play the guitar sometimes
 
 I do a lot of Programming (Which I intend to go on to do professionally in games design)
-
 
 I listen to a lot of music while I do stuff (This music is some of the best):
         The Sisters of Mercy
