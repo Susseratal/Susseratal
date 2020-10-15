@@ -16,7 +16,8 @@ General
 
 Database
 ###############
-- [ ] Set up SQLite3
+- [x] Set up SQLite3
+- [ ] Build a basic, functioning database
 - [ ] Learn to do SQLite3 good
 - [ ] Build a databse for stables
 - [ ] Build it onto a dedicated machine (possibly running a build of linux)
@@ -63,6 +64,8 @@ Website
 ###############
 - [x] Website?
 - [x] Get Jekyll working
+- [ ] Do the CSS so that the website has proper formatting
+- [ ] Make a nicer way of making blog posts/automate it
 
 Videos
 ###############
