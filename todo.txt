@@ -11,12 +11,14 @@ General
 - [x] Disk tidy up Laptop (I freed up a stonking great 20 gig, just in loose files!)
 - [x] Set up a bootable USB drive with Arch Linux/some other primarily text based operating system
 - [x] Backup laptop
+- [ ] Get MUPDF working on laptop
 
-Games design stuff
+Database
 ###############
-- [x] Video games are stupid
-- [x] Start working with the Unreal Engine
-- [ ] School stuff basically
+- [ ] Set up SQLite3
+- [ ] Learn to do SQLite3 good
+- [ ] Build a databse for stables
+- [ ] Build it onto a dedicated machine (possibly running a build of linux)
 
 Frank
 ###############
