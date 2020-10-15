@@ -10,7 +10,8 @@ General
 - [x] cry
 - [x] Disk tidy up Laptop (I freed up a stonking great 20 gig, just in loose files!)
 - [x] Set up a bootable USB drive with Arch Linux/some other primarily text based operating system
-- [x] Backup laptop
+- [ ] Backup laptop
+- [ ] restructure local github repo to account for C, Python, Website etc
 - [ ] Get MUPDF working on laptop
 
 Database
