@@ -4,8 +4,9 @@ Once you've skimmed that, have a look at some of the projects I've got here, see
 
 Hope you like what I've done with the place
 
-I'm using the 'Susseratal' repository for a personal repository to keep hold of files and links that I want access to basically everywhere I go. I also want to use it as a bit of a repo for stuff I'm into because it's easier than creating a website. I do wanna create a website though now. *adds it to the todo list*
-I've also now got a PDF of the complete works of HP Lovecraft. This PDF was taken from 'https://arkhamarchivist.com/' So go show some love and appreciation to them!
+I'm using the 'Susseratal' repository for a personal repository to keep hold of files and links that I want access to basically everywhere I go. I also want to use it as a bit of a repo for stuff I'm into because it's easier than creating a website. 
+
+This didn't age very well now that I've started making a website. Whoops.
 
 Love, Iain
 xoxo
