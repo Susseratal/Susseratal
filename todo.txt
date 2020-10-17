@@ -19,8 +19,8 @@ Database
 - [x] Set up SQLite3
 - [ ] Build a basic, functioning database
 - [ ] Learn to do SQLite3 good
-- [ ] Build a databse for stables
-- [ ] Build it onto a dedicated machine (possibly running a build of linux)
+- [ ] Build a database for stables
+- [ ] Build it onto a dedicated machine (possibly running a build of linux) (possibly white mac?)
 
 Frank
 ###############
