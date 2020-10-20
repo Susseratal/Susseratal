@@ -10,17 +10,23 @@ General
 - [x] cry
 - [x] Disk tidy up Laptop (I freed up a stonking great 20 gig, just in loose files!)
 - [x] Set up a bootable USB drive with Arch Linux/some other primarily text based operating system
+- [x] Get MUPDF working on laptop
 - [ ] Backup laptop
-- [ ] restructure local github repo to account for C, Python, Website etc
-- [ ] Get MUPDF working on laptop
 
 Database
 ###############
 - [x] Set up SQLite3
-- [ ] Build a basic, functioning database
-- [ ] Learn to do SQLite3 good
+- [x] Build a basic, functioning database
+- [ ] Build user input functionality
 - [ ] Build a database for stables
 - [ ] Build it onto a dedicated machine (possibly running a build of linux) (possibly white mac?)
+
+Email Client UI
+###############
+- [x] Create an account and log back in
+- [x] Send emails from that account
+- [ ] Create "aliases" to save people email address
+- [ ] Recieve emails
 
 Frank
 ###############
@@ -52,13 +58,6 @@ Curses program
 - [ ] Make generated "Rooms" contain items like gold
 - [ ] Create enemies
 - [ ] Cry because everything is hard
-
-Email Client UI
-###############
-- [x] Create an account and log back in
-- [x] Send emails from that account
-- [ ] Create "aliases" to save people email address
-- [ ] Recieve emails
 
 Website
 ###############
