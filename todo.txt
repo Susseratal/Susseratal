@@ -11,15 +11,19 @@ General
 - [x] Disk tidy up Laptop (I freed up a stonking great 20 gig, just in loose files!)
 - [x] Set up a bootable USB drive with Arch Linux/some other primarily text based operating system
 - [x] Get MUPDF working on laptop
+- [x] Get white mac running a build of linux
+- [ ] Get white mac running a build of linux that didn't somehow break during the install process
 - [ ] Backup laptop
+- [ ] Gaming?
 
 Database
 ###############
 - [x] Set up SQLite3
 - [x] Build a basic, functioning database
 - [ ] Build user input functionality
-- [ ] Build a database for stables
-- [ ] Build it onto a dedicated machine (possibly running a build of linux) (possibly white mac?)
+- [ ] Get it to properly append the table
+- [ ] Put it on white mac running WORKING linux distro
+- [ ] Download DB browser for SQLite to white mac?
 
 Email Client UI
 ###############
@@ -63,8 +67,10 @@ Website
 ###############
 - [x] Website?
 - [x] Get Jekyll working
-- [ ] Do the CSS so that the website has proper formatting
-- [ ] Make a nicer way of making blog posts/automate it
+- [ ] Do website with hugo instead of Jekyll
+- [ ] Get Hugo website in the same state as Jekyll website
+- [ ] Use Hugo for super nice layout/formatting
+- [ ] Get it up and hosted on ecohosting
 
 Videos
 ###############
