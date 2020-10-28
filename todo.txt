@@ -12,9 +12,9 @@ General
 - [x] Set up a bootable USB drive with Arch Linux/some other primarily text based operating system
 - [x] Get MUPDF working on laptop
 - [x] Get white mac running a build of linux
-- [ ] Get white mac running a build of linux that didn't somehow break during the install process
 - [ ] Backup laptop
-- [ ] Gaming?
+- [ ] Get neomutt working properly on laptop
+- [ ] Update lots of important passwords with randomly generated ones for security sakes
 
 Database
 ###############
