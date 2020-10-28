@@ -26,6 +26,16 @@ Database
 - [ ] Put it on white mac running WORKING linux distro
 - [ ] Download DB browser for SQLite to white mac?
 
+Curses program
+###############
+- [ ] Frick everything about curses I want nothing to do with it
+- [ ] It won't run on windows because curses is Mac/Linux only
+- [ ] Get it to do something more than just create an empty box that cannot be interacted with?
+- [ ] Create a player avatar
+- [ ] Make generated "Rooms" contain items like gold
+- [ ] Create enemies
+- [ ] Cry because everything is hard
+
 Email Client UI
 ###############
 - [x] Create an account and log back in
@@ -53,16 +63,6 @@ Star Wars Game
         - [ ] When someone is defeated, make sure the game prints out that their health has reached 0, and not a negative number
         - [ ] When the computer's health reaches a set amount (such as 35%), increase it's chance to cast heal (optional)
 - [ ] Start adding story elements and battles
-
-Curses program
-###############
-- [ ] Frick everything about curses I want nothing to do with it
-- [ ] It won't run on windows because curses is Mac/Linux only
-- [ ] Get it to do something more than just create an empty box that cannot be interacted with?
-- [ ] Create a player avatar
-- [ ] Make generated "Rooms" contain items like gold
-- [ ] Create enemies
-- [ ] Cry because everything is hard
 
 Website
 ###############
