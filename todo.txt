@@ -12,10 +12,20 @@ General
 - [x] Set up a bootable USB drive with Arch Linux/some other primarily text based operating system
 - [x] Get MUPDF working on laptop
 - [x] Get white mac running a build of linux
-- [ ] Backup laptop
-- [ ] Get neomutt working properly on laptop
-- [ ] Customise bashrc so files and directories have different colours based on type
+- [x] Customise bashrc so files and directories have different colours based on type
+- [x] Get neomutt working properly on laptop
+- [ ] Neomutt sending emails
 - [ ] Update lots of important passwords with randomly generated ones for security sakes
+- [ ] Backup laptop
+
+Website
+###############
+- [x] Website?
+- [x] Get Jekyll working
+- [ ] Do website with hugo instead of Jekyll
+- [ ] Get Hugo website in the same state as Jekyll website
+- [ ] Use Hugo for super nice layout/formatting
+- [ ] Get it up and hosted on ecohosting
 
 Database
 ###############
@@ -63,15 +73,6 @@ Star Wars Game
         - [ ] When someone is defeated, make sure the game prints out that their health has reached 0, and not a negative number
         - [ ] When the computer's health reaches a set amount (such as 35%), increase it's chance to cast heal (optional)
 - [ ] Start adding story elements and battles
-
-Website
-###############
-- [x] Website?
-- [x] Get Jekyll working
-- [ ] Do website with hugo instead of Jekyll
-- [ ] Get Hugo website in the same state as Jekyll website
-- [ ] Use Hugo for super nice layout/formatting
-- [ ] Get it up and hosted on ecohosting
 
 Videos
 ###############
