@@ -19,6 +19,7 @@ General
 - [ ] Neomutt sending emails
 - [ ] Neomutt HTML/images
 - [ ] Backup laptop
+- [ ] Fix Zim
 
 Website
 ###############
