@@ -16,8 +16,9 @@ General
 - [x] Update lots of important passwords with randomly generated ones for security sakes
 - [x] Get neomutt working properly on laptop
 - [x] Neomutt colours
-- [ ] Neomutt sending emails
+- [x] Neomutt sending emails
 - [ ] Neomutt HTML/images
+- [ ] Neomutt mailboxes
 - [ ] Fix Zim
 - [ ] Play with gather.town
 - [ ] Backup laptop
@@ -30,6 +31,7 @@ Website
 - [ ] Get Hugo website in the same state as Jekyll website
 - [ ] Use Hugo for super nice layout/formatting
 - [ ] Get it up and hosted on ecohosting
+- [ ] Select a theme
 
 Database
 ###############
