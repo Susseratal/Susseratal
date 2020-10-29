@@ -19,7 +19,6 @@ General
 - [ ] Neomutt sending emails
 - [ ] Neomutt HTML/images
 - [ ] Backup laptop
-- [ ] See if you can get ncspot working without spotify premium
 
 Website
 ###############
@@ -39,10 +38,14 @@ Database
 - [ ] Put it on white mac running WORKING linux distro
 - [ ] Download DB browser for SQLite to white mac?
 
+Curses music library
+#######################
+- [ ] Copy ncspot except to work with locally stored music files
+- [ ] Maybe do it in python so I don't have to learn rust
+- [ ] Use it to learn curses
+
 Curses program
 ###############
-- [ ] Frick everything about curses I want nothing to do with it
-- [ ] It won't run on windows because curses is Mac/Linux only
 - [ ] Get it to do something more than just create an empty box that cannot be interacted with?
 - [ ] Create a player avatar
 - [ ] Make generated "Rooms" contain items like gold
