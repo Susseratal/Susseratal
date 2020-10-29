@@ -7,10 +7,43 @@
 #                                   #
 #####################################
 
+PS1_magenta='\[\e[35;1m\]'
+PS1_normal='\[\e[0m\]'
+PS1_curdir='$(truncate "\w")'
+PS1="\u ${PS1_magenta}${PS1_curdir}${PS1_normal}\$ "
 
+alias b="w3m"
+alias c="clear"
+alias cdp="cd /Users/iainwalker/Programming/GitKraken/"
+alias cyberpunk="python /Users/iainwalker/Programming/GitKraken/Stupid-Stuff/cyberpunk.py"
+alias doom=chocolate-doom
+alias ga="git add"
+alias gp="git pull"
+alias gs="git status"
+alias gtc="git clone"
+alias gtodo="git commit -m 'updated todo list'"
+alias kee="keepassxc-cli"
+alias kls="keepassxc-cli ls /Users/iainwalker/iainpasswords.kdbx"
+alias kodi="open /Applications/Kodi.app"
+alias l="ls"
+alias la="ls -a"
+alias mup="mupdf-gl"
+alias mutt="neomutt"
+alias o="open"
+alias power="python computer.py"
+alias spo="ncspot"
+alias v="vi"
+
+export PATH=/Users/iainwalker/bin:/Applications/Vim.app/Contents/bin:/usr/local/opt/node@6/bin:$PATH
+export EDITOR="vim"
+export CLICOLOR=1
+export LSCOLORS=Gafxcxdxbaegedabagacad
 export BASH_SILENCE_DEPRECATION_WARNING=1
 
-#PS1=":~ "
+eval "$(pyenv init -)"
+eval "$(pyenv virtualenv-init -)"
+
+. $(brew --prefix asdf)/asdf.sh
 
 ###-tns-completion-start-###
 if [ -f /Users/iainwalker/.tnsrc ]; then 
@@ -18,32 +51,19 @@ if [ -f /Users/iainwalker/.tnsrc ]; then
 fi
 ###-tns-completion-end-###
 
-alias la="ls -a"
-alias l="ls"
-alias v="vi"
-alias o="open"
-alias gs="git status"
-alias ga="git add"
-alias gp="git pull"
-alias gtc="git clone"
-alias gtodo="git commit -m 'updated todo list'"
-alias cyberpunk="python /Users/iainwalker/Programming/GitKraken/Stupid-Stuff/cyberpunk.py"
-alias c="clear"
-alias power="python computer.py"
-alias cdp="cd /Users/iainwalker/Programming/GitKraken/; l"
-alias mup="mupdf-gl"
-alias mutt="neomutt"
-alias kee="keepassxc-cli"
-alias kls="keepassxc-cli ls /Users/iainwalker/iainpasswords.kdbx"
-alias spo="ncspot"
-alias doom=chocolate-doom
+function cd() {
+command cd "$@"
+ls
+}
 
-export PATH=/Users/iainwalker/bin:/Applications/Vim.app/Contents/bin:/usr/local/opt/node@6/bin:$PATH
-export EDITOR="vim"
-export CLICOLOR=1
-
-eval "$(pyenv init -)"
-eval "$(pyenv virtualenv-init -)"
+function truncate() {
+  tmp=$*
+  if [ "${#tmp}" -le 32 ]; then
+    echo "$tmp"
+  else
+    echo "...${tmp:${#tmp}-20}"
+  fi
+}
 
 function vi() {
   args=
@@ -60,8 +80,6 @@ function vi() {
   fi
 }
 
-. $(brew --prefix asdf)/asdf.sh
-
 if type brew &>/dev/null; then
   HOMEBREW_PREFIX="$(brew --prefix)"
   if [[ -r "${HOMEBREW_PREFIX}/etc/profile.d/bash_completion.sh" ]]; then
@@ -74,6 +92,4 @@ if type brew &>/dev/null; then
 fi
 
 python ~/Programming/GitKraken/Stupid-Stuff/cyberpunk.py
-
-export LSCOLORS=Gafxcxdxbaegedabagacad
 
