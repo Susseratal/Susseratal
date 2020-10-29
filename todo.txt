@@ -18,8 +18,9 @@ General
 - [x] Neomutt colours
 - [ ] Neomutt sending emails
 - [ ] Neomutt HTML/images
-- [ ] Backup laptop
 - [ ] Fix Zim
+- [ ] Play with gather.town
+- [ ] Backup laptop
 
 Website
 ###############
@@ -41,9 +42,8 @@ Database
 
 Curses music library
 #######################
-- [ ] Copy ncspot except to work with locally stored music files
-- [ ] Maybe do it in python so I don't have to learn rust
-- [ ] Use it to learn curses
+- [ ] Build an interface for music in python
+- [ ] Copy ncspot curses layout to help build it into something
 
 Curses program
 ###############
