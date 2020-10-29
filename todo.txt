@@ -82,10 +82,9 @@ Videos
 - [x] Ratchet and Clank
 - [ ] RDR2
         - [ ] Everything
-- [ ] The Post Space Trilogy
-        - [ ] Elite Dangerous
-                - [ ] Everything
-        - [ ] Subnautica
-                - [ ] Everything
+- [ ] Elite Dangerous
+        - [ ] Everything
+- [ ] Subnautica
+        - [ ] Everything
 - [ ] Fallout 4
         - [ ] Everything
