@@ -13,10 +13,13 @@ General
 - [x] Get MUPDF working on laptop
 - [x] Get white mac running a build of linux
 - [x] Customise bashrc so files and directories have different colours based on type
+- [x] Update lots of important passwords with randomly generated ones for security sakes
 - [x] Get neomutt working properly on laptop
+- [x] Neomutt colours
 - [ ] Neomutt sending emails
-- [ ] Update lots of important passwords with randomly generated ones for security sakes
+- [ ] Neomutt HTML/images
 - [ ] Backup laptop
+- [ ] See if you can get ncspot working without spotify premium
 
 Website
 ###############
