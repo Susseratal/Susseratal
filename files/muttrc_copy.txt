@@ -8,8 +8,8 @@
 #####################################
 
 # ================  IMAP ====================
-set imap_user = "jtfjyrx@gmail.com"
-set imap_pass = "flyingpig"
+set imap_user = "youremailaddress@gmail.com"
+set imap_pass = "password"
 set spoolfile = "imaps://imap.gmail.com/INBOX"
 set folder = "imaps://imap.gmail.com/"
 set record = "imaps://imap.gmail.com/[Gmail]/Sent Mail"
@@ -20,7 +20,7 @@ set message_cachedir = "~/.mutt/cache/bodies"
 set certificate_file = "~/.mutt/certificates"
 
 # ================  SMTP  ====================
-set smtp_url = "smtp://jtfjyrx@smtp.gmail.com:587/"
+set smtp_url = "smtp://youremailaddress@gmail.com@smtp.gmail.com:587/"
 set smtp_pass = $imap_pass
 set ssl_force_tls = yes # Require encrypted connection
 
@@ -31,7 +31,6 @@ set charset = UTF-8     # value of $LANG; also fallback for send_charset
 
 # Sender, email address, and sign-off line must match
 unset use_domain        # because joe@localhost is just embarrassing
-set realname = "Iain Walker"
-set from = "jtfjyrx@gmail.com"
+set realname = "Your Name"
+set from = "youremail@gmail.com"
 set use_from = yes
-
