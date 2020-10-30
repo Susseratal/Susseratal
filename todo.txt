@@ -17,7 +17,7 @@ General
 - [x] Get neomutt working properly on laptop
 - [x] Neomutt colours
 - [x] Neomutt sending emails
-- [ ] Neomutt HTML/images
+- [x] Neomutt HTML/images
 - [ ] Neomutt mailboxes
 - [ ] Fix Zim
 - [ ] Play with gather.town
@@ -27,11 +27,11 @@ Website
 ###############
 - [x] Website?
 - [x] Get Jekyll working
+- [x] Select a theme
+- [ ] Use Hugo for super nice layout/formatting
 - [ ] Do website with hugo instead of Jekyll
 - [ ] Get Hugo website in the same state as Jekyll website
-- [ ] Use Hugo for super nice layout/formatting
 - [ ] Get it up and hosted on ecohosting
-- [ ] Select a theme
 
 Database
 ###############
@@ -44,16 +44,16 @@ Database
 
 Curses music library
 #######################
+- [ ] Create a README with a changelog
 - [ ] Build an interface for music in python
 - [ ] Copy ncspot curses layout to help build it into something
 
-Curses program
+Roguelike
 ###############
 - [ ] Get it to do something more than just create an empty box that cannot be interacted with?
 - [ ] Create a player avatar
 - [ ] Make generated "Rooms" contain items like gold
 - [ ] Create enemies
-- [ ] Cry because everything is hard
 
 Email Client UI
 ###############

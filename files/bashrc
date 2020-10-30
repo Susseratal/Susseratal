@@ -7,11 +7,13 @@
 #                                   #
 #####################################
 
+# ================  PS1  ====================
 PS1_magenta='\[\e[35;1m\]'
 PS1_normal='\[\e[0m\]'
 PS1_curdir='$(truncate "\w")'
-PS1="\u ${PS1_magenta}${PS1_curdir}${PS1_normal}\$ "
+PS1="\u ${PS1_magenta}${PS1_curdir}${PS1_normal}\[\e[35;1m\$ "
 
+# ================  Aliases  ====================
 alias b="w3m"
 alias c="clear"
 alias cdp="cd /Users/iainwalker/Programming/GitKraken/"
@@ -34,23 +36,28 @@ alias power="python computer.py"
 alias spo="ncspot"
 alias v="vi"
 
+# ================  Export  ====================
 export PATH=/Users/iainwalker/bin:/Applications/Vim.app/Contents/bin:/usr/local/opt/node@6/bin:$PATH
 export EDITOR="vim"
 export CLICOLOR=1
 export LSCOLORS=Gafxcxdxbaegedabagacad
 export BASH_SILENCE_DEPRECATION_WARNING=1
 
+# ================  Eval  ====================
 eval "$(pyenv init -)"
 eval "$(pyenv virtualenv-init -)"
 
+# ================  Brew  ====================
 . $(brew --prefix asdf)/asdf.sh
 
+# ================  tns-completion  ====================
 ###-tns-completion-start-###
 if [ -f /Users/iainwalker/.tnsrc ]; then 
     source /Users/iainwalker/.tnsrc 
 fi
 ###-tns-completion-end-###
 
+# ================  Functions  ====================
 function cd() {
 command cd "$@"
 ls
@@ -91,5 +98,5 @@ if type brew &>/dev/null; then
   fi
 fi
 
+# ================  Scripts to run on startup  ====================
 python ~/Programming/GitKraken/Stupid-Stuff/cyberpunk.py
-

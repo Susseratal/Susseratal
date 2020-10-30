@@ -1,4 +1,5 @@
-Hello! If you're new here, and you've come from another of my numerous links, this is a good place to start. From here, I would recommend going to the about.txt in the Susseratal repo. (pinned just under here) I use it as a personal repository for information, todo lists etcetera
+Hello! If you're new here, and you've come from another of my numerous links, this is a good place to start. From here, I would recommend going to the about.txt in the Susseratal repo. (pinned just under here) 
+I use it as a personal repository for information, todo lists etcetera
 
 Once you've skimmed that, have a look at some of the projects I've got here, see if anything takes your fancy. 
 
@@ -8,7 +9,8 @@ I'm using the 'Susseratal' repository for a personal repository to keep hold of 
 
 This didn't age very well now that I've started making a website. Whoops.
 
-By the by, I'm working on updating the website and building it using Hugo, rather than Jekyll. This means I won't be hosting it on Github Pages anymore, but I prefer using Hugo to Jekyll. Obviously it's in a private repo and when it's in the same state as the github pages one, I'll delete, or more likely archive the github pages one. Maybe.
+By the by, I'm working on updating the website and building it using Hugo, rather than Jekyll. This means I won't be hosting it on Github Pages anymore, but I prefer using Hugo to Jekyll. 
+Obviously it's in a private repo and when it's in the same state as the github pages one, I'll delete, or more likely archive the github pages one. Maybe.
 
 Love, Iain
 xoxo
