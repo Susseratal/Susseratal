@@ -1,5 +1,5 @@
 Hello! If you're new here, and you've come from another of my numerous links, this is a good place to start. From here, I would recommend going to the about.txt in the Susseratal repo. (pinned just under here) 
-I use it as a personal repository for information, todo lists etcetera
+I use it as a personal repository for information, todo lists etcetera. However, if you've just come from my website, you're probably better off there.
 
 Once you've skimmed that, have a look at some of the projects I've got here, see if anything takes your fancy. 
 
