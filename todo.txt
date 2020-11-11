@@ -47,6 +47,7 @@ Curses music library
 - [ ] Create a README with a changelog
 - [ ] Build an interface for music in python
 - [ ] Copy ncspot curses layout to help build it into something
+- [ ] Requirements text file
 
 Roguelike
 ###############
@@ -61,10 +62,12 @@ Email Client UI
 - [x] Send emails from that account
 - [ ] Create "aliases" to save people email address
 - [ ] Recieve emails
+- [ ] This project could be scrapped because mutt is a thing
 
 Frank
 ###############
 - [ ] Create Frank in C#. I don't want to do this right now, but it'll happen at some point
+- [ ] More of a C# learning aid
 
 Discord bot
 ###############
