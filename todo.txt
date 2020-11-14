@@ -64,7 +64,12 @@ Email Client UI
 
 Frank
 ###############
-- [ ] Create Frank in C#. I don't want to do this right now, but it'll happen at some point
+Python version:
+- [ ] fix the async functions in the python version
+
+C# version:
+- [x] Create Frank in C#. I don't want to do this right now, but it'll happen at some point
+- [ ] Get it up to date with python version
 
 Discord bot
 ###############
