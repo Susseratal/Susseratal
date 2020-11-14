@@ -22,6 +22,7 @@ General
 - [ ] Neomutt mailboxes
 - [ ] Windows Bash using the linux thing. could replace MINGW64?
 - [ ] Fix Zim
+- [ ] Make a twitter bot to harass Samuel L Jackson to start a cooking show
 - [ ] Backup laptop
 
 Website
