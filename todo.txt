@@ -14,13 +14,14 @@ General
 - [x] Get white mac running a build of linux
 - [x] Customise bashrc so files and directories have different colours based on type
 - [x] Update lots of important passwords with randomly generated ones for security sakes
+- [x] Play with gather.town
 - [x] Get neomutt working properly on laptop
 - [x] Neomutt colours
 - [x] Neomutt sending emails
 - [x] Neomutt HTML/images
 - [ ] Neomutt mailboxes
+- [ ] Windows Bash using the linux thing. could replace MINGW64?
 - [ ] Fix Zim
-- [ ] Play with gather.town
 - [ ] Backup laptop
 
 Website
@@ -47,6 +48,7 @@ Curses music library
 - [ ] Create a README with a changelog
 - [ ] Build an interface for music in python
 - [ ] Copy ncspot curses layout to help build it into something
+- [ ] Requirements text file
 
 Roguelike
 ###############
@@ -61,6 +63,7 @@ Email Client UI
 - [x] Send emails from that account
 - [ ] Create "aliases" to save people email address
 - [ ] Recieve emails
+- [ ] This project could be scrapped because mutt is a thing
 
 Frank
 ###############
