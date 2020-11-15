@@ -24,6 +24,7 @@ General
 - [ ] Fix Zim
 - [ ] Make a twitter bot to harass Samuel L Jackson to start a cooking show
 - [ ] Backup laptop
+- [ ] Fix brew and youtube-dl on laptop
 
 Website
 ###############
