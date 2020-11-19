@@ -25,6 +25,7 @@ General
 - [ ] Make a twitter bot to harass Samuel L Jackson to start a cooking show
 - [ ] Backup laptop
 - [ ] Fix brew and youtube-dl on laptop
+- [ ] Create mute and unmute shell script to make computer speak in robotic voice
 
 Website
 ###############
@@ -40,8 +41,11 @@ Database
 ###############
 - [x] Set up SQLite3
 - [x] Build a basic, functioning database
-- [ ] Build user input functionality
-- [ ] Get it to properly append the table
+- [x] Build user input functionality
+- [x] Get it to properly append the table
+- [ ] Create second "horses" table
+- [ ] Create calculations function for working out if riders and horses are compatable
+- [ ] Use calculations for working out how many hours horses are working (max hours worked is ...)
 - [ ] Put it on white mac running WORKING linux distro
 - [ ] Download DB browser for SQLite to white mac?
 
@@ -73,8 +77,12 @@ Python version:
 - [ ] fix the async functions in the python version
 
 C# version:
-- [x] Create Frank in C#. I don't want to do this right now, but it'll happen at some point
+- [x] Notes
+- [x] Calculator
 - [ ] Get it up to date with python version
+- [ ] login with password/writing to a file
+- [ ] Saving data
+- [ ] multi-line inputs
 
 Discord bot
 ###############
