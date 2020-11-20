@@ -14,16 +14,18 @@ General
 - [x] Customise bashrc so files and directories have different colours based on type
 - [x] Update lots of important passwords with randomly generated ones for security sakes
 - [x] Play with gather.town
+- [x] Fix brew and youtube-dl on laptop
+- [x] Windows Bash using the linux thing. could replace MINGW64? (no)
 - [x] Get neomutt working properly on laptop
 - [x] Neomutt colours
 - [x] Neomutt sending emails
 - [x] Neomutt HTML/images
 - [ ] Neomutt mailboxes
-- [ ] Windows Bash using the linux thing. could replace MINGW64?
+- [ ] Set up account with cock.li
+- [ ] Redirect current emails to cock.li
 - [ ] Fix Zim
-- [ ] Make a twitter bot to harass Samuel L Jackson to start a cooking show
+- [ ] Make a twitter bot to harass Samuel L Jackson and obama to start a cooking show
 - [ ] Backup laptop
-- [ ] Fix brew and youtube-dl on laptop
 - [ ] Create mute and unmute shell script to make computer speak in robotic voice
 
 Website
@@ -44,7 +46,7 @@ Database
 - [x] Get it to properly append the table
 - [ ] Create second "horses" table
 - [ ] Create calculations function for working out if riders and horses are compatable
-- [ ] Use calculations for working out how many hours horses are working (max hours worked is ...)
+- [ ] Use calculations for working out how many hours horses are working (max hours worked is 10 per week and 2 per day plus a day rest)
 - [ ] Put it on white mac running WORKING linux distro
 - [ ] Download DB browser for SQLite to white mac?
 
@@ -66,9 +68,9 @@ Email Client UI
 ###############
 - [x] Create an account and log back in
 - [x] Send emails from that account
+- [x] This project could be scrapped because mutt is a thing (probs keep doing it for fun?)
 - [ ] Create "aliases" to save people email address
 - [ ] Recieve emails
-- [ ] This project could be scrapped because mutt is a thing
 
 Frank
 ###############
@@ -108,6 +110,32 @@ Videos
 - [ ] Elite Dangerous
         - [ ] Everything
 - [ ] Subnautica
-        - [ ] Everything
+        - [x] Record gameplay
+        - [ ] Finish writing introduction
+        - [ ] Finish writing scene 1 (main story)
+                - [ ] Act 1
+                - [ ] Act 2
+                - [ ] Act 3
+        - [ ] Finish writing scene 2 (degasi story)
+        - [ ] Finish writing scene 3 (Shortcomings of the game)
+        - [ ] Finish writing scene 4 (Best part of the game)
+        - [ ] Conclusion
+        - [ ] Recording
+                - [ ] Introduction
+                - [ ] Scene 1
+                - [ ] Scene 2
+                - [ ] Scene 3
+                - [ ] Scene 4
+                - [ ] Conclusion
+        - [ ] Editing
+                - [ ] Introduction
+                - [ ] Scene 1
+                - [ ] Scene 2
+                - [ ] Scene 3
+                - [ ] Scene 4
+                - [ ] Conclusion
 - [ ] Fallout 4
+        - [ ] Everything
+- [ ] Yandere simulator
+        - [ ] weep
         - [ ] Everything
