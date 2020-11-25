@@ -21,8 +21,6 @@ General
 - [x] Neomutt sending emails
 - [x] Neomutt HTML/images
 - [ ] Neomutt mailboxes
-- [ ] Set up account with cock.li
-- [ ] Redirect current emails to cock.li
 - [ ] Fix Zim
 - [ ] Make a twitter bot to harass Samuel L Jackson and obama to start a cooking show
 - [ ] Backup laptop
@@ -33,10 +31,10 @@ Website
 - [x] Website?
 - [x] Get Jekyll working
 - [x] Select a theme
-- [ ] Use Hugo for super nice layout/formatting
-- [ ] Do website with hugo instead of Jekyll
-- [ ] Get Hugo website in the same state as Jekyll website
-- [ ] Get it up and hosted on ecohosting
+- [x] Use Hugo for super nice layout/formatting
+- [x] Do website with hugo instead of Jekyll
+- [x] Get Hugo website in the same state as Jekyll website
+- [x] Get it up and hosted on ecohosting
 
 Database
 ###############
@@ -44,7 +42,8 @@ Database
 - [x] Build a basic, functioning database
 - [x] Build user input functionality
 - [x] Get it to properly append the table
-- [ ] Create second "horses" table
+- [x] Create second "horses" table
+- [ ] Fix the tomfoolery I have used to break it
 - [ ] Create calculations function for working out if riders and horses are compatable
 - [ ] Use calculations for working out how many hours horses are working (max hours worked is 10 per week and 2 per day plus a day rest)
 - [ ] Put it on white mac running WORKING linux distro
@@ -111,12 +110,12 @@ Videos
         - [ ] Everything
 - [ ] Subnautica
         - [x] Record gameplay
-        - [ ] Finish writing introduction
+        - [x] Finish writing introduction
         - [ ] Finish writing scene 1 (main story)
                 - [ ] Act 1
                 - [ ] Act 2
                 - [ ] Act 3
-        - [ ] Finish writing scene 2 (degasi story)
+        - [x] Finish writing scene 2 (degasi story)
         - [ ] Finish writing scene 3 (Shortcomings of the game)
         - [ ] Finish writing scene 4 (Best part of the game)
         - [ ] Conclusion
@@ -134,8 +133,6 @@ Videos
                 - [ ] Scene 3
                 - [ ] Scene 4
                 - [ ] Conclusion
-- [ ] Fallout 4
-        - [ ] Everything
 - [ ] Yandere simulator
-        - [ ] weep
+        - [ ] weep for the innocence lost to time
         - [ ] Everything
