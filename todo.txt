@@ -43,15 +43,16 @@ Database
 - [x] Build user input functionality
 - [x] Get it to properly append the table
 - [x] Create second "horses" table
-- [ ] Fix the tomfoolery I have used to break it
+- [x] Fix the tomfoolery I have used to break it
 - [ ] Create calculations function for working out if riders and horses are compatable
 - [ ] Use calculations for working out how many hours horses are working (max hours worked is 10 per week and 2 per day plus a day rest)
 - [ ] Put it on white mac running WORKING linux distro
 - [ ] Download DB browser for SQLite to white mac?
+- [ ] Create curses interface
 
 Curses music library
 #######################
-- [ ] Create a README with a changelog
+- [x] Create a README with a changelog
 - [ ] Build an interface for music in python
 - [ ] Copy ncspot curses layout to help build it into something
 - [ ] Requirements text file
@@ -86,7 +87,7 @@ C# version:
 
 Discord bot
 ###############
--[ ] Discord bot?
+- [ ] Discord bot?
 
 Star Wars Game
 ###############
@@ -112,13 +113,13 @@ Videos
         - [x] Record gameplay
         - [x] Finish writing introduction
         - [ ] Finish writing scene 1 (main story)
-                - [ ] Act 1
-                - [ ] Act 2
+                - [x] Act 1
+                - [x] Act 2
                 - [ ] Act 3
         - [x] Finish writing scene 2 (degasi story)
-        - [ ] Finish writing scene 3 (Shortcomings of the game)
+        - [x] Finish writing scene 3 (Shortcomings of the game)
         - [ ] Finish writing scene 4 (Best part of the game)
-        - [ ] Conclusion
+        - [ ] Finish writing Conclusion
         - [ ] Recording
                 - [ ] Introduction
                 - [ ] Scene 1
