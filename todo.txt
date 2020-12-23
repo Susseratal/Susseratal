@@ -112,21 +112,21 @@ Videos
 - [ ] Subnautica
         - [x] Record gameplay
         - [x] Finish writing introduction
-        - [ ] Finish writing scene 1 (main story)
+        - [x] Finish writing scene 1 (main story)
                 - [x] Act 1
                 - [x] Act 2
-                - [ ] Act 3
+                - [x] Act 3
         - [x] Finish writing scene 2 (degasi story)
         - [x] Finish writing scene 3 (Shortcomings of the game)
-        - [ ] Finish writing scene 4 (Best part of the game)
-        - [ ] Finish writing Conclusion
-        - [ ] Recording
-                - [ ] Introduction
-                - [ ] Scene 1
-                - [ ] Scene 2
-                - [ ] Scene 3
-                - [ ] Scene 4
-                - [ ] Conclusion
+        - [x] Finish writing scene 4 (Best part of the game)
+        - [x] Finish writing Conclusion
+        - [x] Recording
+                - [x] Introduction
+                - [x] Scene 1
+                - [x] Scene 2
+                - [x] Scene 3
+                - [x] Scene 4
+                - [x] Conclusion
         - [ ] Editing
                 - [ ] Introduction
                 - [ ] Scene 1
