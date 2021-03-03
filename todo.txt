@@ -109,6 +109,11 @@ Videos
         - [ ] Everything
 - [ ] Elite Dangerous
         - [ ] Everything
+- [ ] Skyrim
+        - [ ] Record gameplay
+        - [ ] Write script
+        - [ ] Record audio/video
+        - [ ] edit
 - [x] Subnautica
         - [x] Record gameplay
         - [x] Finish writing introduction
