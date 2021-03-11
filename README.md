@@ -8,7 +8,7 @@ Once you've skimmed that, have a look at some of the projects I've got here, see
 
 I'm using the 'Susseratal' repository for a personal repository to keep hold of files and links that I want access to basically everywhere I go. However, for just general updates about me and what I'm doing, you can check out my website:  
 [Susseratal.me.uk](susseratal.me.uk)  
-[Youtube](https://www.youtube.com/channel/UC0iPDOFyP_TlPgiKEZT1i8g)
+[Youtube](https://www.youtube.com/channel/UC0iPDOFyP_TlPgiKEZT1i8g)  
 [Twitter](twitter.com/@jtfjyrx)
 
 ~ Iain xx
