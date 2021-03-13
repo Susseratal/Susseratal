@@ -15,4 +15,4 @@ colorscheme torte
 :set spelllang=en
 :nmap <C-s> :set spell<CR>
 :nmap <C-a> :set invspell<CR>
-
+:nmap ; :

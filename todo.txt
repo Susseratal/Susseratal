@@ -20,9 +20,14 @@ General
 - [x] Neomutt colours
 - [x] Neomutt sending emails
 - [x] Neomutt HTML/images
+- [x] Backup laptop
 - [ ] Neomutt mailboxes
+- [ ] Fix neomutt, which now won't speak to gmail account
+- [ ] Link neomutt to protonmail?
 - [ ] Fix Zim
 - [ ] Make a twitter bot to harass Samuel L Jackson and obama to start a cooking show
+- [ ] Backup desktop
+- [ ] Backup external disks
 - [ ] Backup laptop
 - [ ] Create mute and unmute shell script to make computer speak in robotic voice
 
@@ -53,9 +58,12 @@ Database
 Curses music library
 #######################
 - [x] Create a README with a changelog
-- [ ] Build an interface for music in python
-- [ ] Copy ncspot curses layout to help build it into something
-- [ ] Requirements text file
+- [x] Install MPV
+- [x] Fix file structure
+- [ ] play songs from program
+- [ ] Build an interface for music using curses
+- [ [ Create a shell script to install it like an actual program
+- [x] Requirements text file
 
 Roguelike
 ###############
@@ -105,25 +113,16 @@ Star Wars Game
 Videos
 ###############
 - [x] Ratchet and Clank
-- [ ] RDR2
-        - [ ] Everything
-- [ ] Elite Dangerous
-        - [ ] Everything
+- [x] Subnautica
 - [ ] Skyrim
         - [ ] Record gameplay
         - [ ] Write script
         - [ ] Record audio/video
         - [ ] edit
-- [x] Subnautica
-        - [x] Record gameplay
-        - [x] Finish writing introduction
-        - [x] Finish writing scene 1 (main story)
-        - [x] Finish writing scene 2 (degasi story)
-        - [x] Finish writing scene 3 (Shortcomings of the game)
-        - [x] Finish writing scene 4 (Best part of the game)
-        - [x] Finish writing Conclusion
-        - [x] Recording
-        - [x] Editing
+- [ ] RDR2 (2)
+        - [ ] Everything
+- [ ] Elite Dangerous
+        - [ ] Everything
 - [ ] Yandere simulator
         - [ ] weep for the innocence lost to time
         - [ ] Everything
