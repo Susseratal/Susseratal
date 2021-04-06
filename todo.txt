@@ -29,7 +29,7 @@ General
 - [ ] Backup desktop
 - [ ] Backup external disks
 - [ ] Backup laptop
-- [ ] Create mute and unmute shell script to make computer speak in robotic voice
+- [ ] Create mute and unmute shell script to make computer speak in robotic voice?
 
 Website
 ###############
@@ -40,6 +40,7 @@ Website
 - [x] Do website with hugo instead of Jekyll
 - [x] Get Hugo website in the same state as Jekyll website
 - [x] Get it up and hosted on ecohosting
+- [ ] Fix "email me" link to be both secured by a button press, and actually redirect to the correct place
 
 Database
 ###############
