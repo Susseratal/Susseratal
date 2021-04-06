@@ -11,14 +11,13 @@
 PS1_magenta='\[\e[35;1m\]'
 PS1_normal='\[\e[0m\]'
 PS1_curdir='$(truncate "\w")'
-PS1="\u ${PS1_magenta}${PS1_curdir}${PS1_normal}\[\e[35;1m\$ "
+PS1="\u ${PS1_magenta}${PS1_curdir}${PS1_normal}\$ "
 
 # ================  Aliases  ====================
 alias b="w3m"
-alias c="clear"
+alias c="clear; ls"
 alias cdp="cd /Users/iainwalker/Programming/GitKraken/"
-alias cyberpunk="python /Users/iainwalker/Programming/GitKraken/Stupid-Stuff/cyberpunk.py"
-alias doom=chocolate-doom
+alias cyberpunk="python /Users/iainwalker/Programming/GitKraken/Susseratal/python/cyberpunk.py"
 alias ga="git add"
 alias gp="git pull"
 alias gs="git status"
@@ -29,16 +28,20 @@ alias kls="keepassxc-cli ls /Users/iainwalker/iainpasswords.kdbx"
 alias kodi="open /Applications/Kodi.app"
 alias l="ls"
 alias la="ls -a"
+alias main="clear; python main.py"
+alias dot="clear; dotnet run main.cs"
 alias mup="mupdf-gl"
 alias mutt="neomutt"
 alias o="open"
+alias pass="pwgen -cdp"
 alias power="python computer.py"
-alias spo="ncspot"
+alias py="python"
+alias rm="rm -i"
 alias v="vi"
+alias ipaddress="ipconfig getifaddr en0"
 
 # ================  Export  ====================
-export PATH=/Users/iainwalker/bin:/Applications/Vim.app/Contents/bin:/usr/local/opt/node@6/bin:$PATH
-export EDITOR="vim"
+export PATH=/Users/iainwalker/bin:/Applications/Vim.app/Contents/bin:/usr/local/opt/node@6/bin:/.local/bin:$PATH
 export CLICOLOR=1
 export LSCOLORS=Gafxcxdxbaegedabagacad
 export BASH_SILENCE_DEPRECATION_WARNING=1
@@ -99,4 +102,4 @@ if type brew &>/dev/null; then
 fi
 
 # ================  Scripts to run on startup  ====================
-python ~/Programming/GitKraken/Stupid-Stuff/cyberpunk.py
+#python ~/Programming/GitKraken/Susseratal/python/cyberpunk.py
