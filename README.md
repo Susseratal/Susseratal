@@ -1,16 +1,11 @@
 Hello! If you're new here, and you've come from another of my numerous links, this is a pretty good place to start.
 If you've got something specific in mind, then you can go find that, but if this just sort of a way to kill 5 minutes, then read on...
 
-From here, I would recommend going to the about.txt in the Susseratal repo. (pinned just under here) 
-I use it as a personal repository for information, todo lists etcetera. However, if you've just come from my website, you're probably better off there.
-
 Once you've skimmed that, have a look at some of the projects I've got here, see if anything takes your fancy. 
 
-I'm using the 'Susseratal' repository for a personal repository to keep hold of files and links that I want access to basically everywhere I go. However, for just general updates about me and what I'm doing, you can check out my website:  
-[Susseratal.me.uk](susseratal.me.uk)  
-[Youtube](https://www.youtube.com/channel/UC0iPDOFyP_TlPgiKEZT1i8g)  
-[Twitter](twitter.com/@jtfjyrx)
+I'm using the 'Susseratal' repository for a personal repository to keep hold of files and links that I want access to basically everywhere I go. However, for just general updates about me and what I'm doing, you can check out my website, youtube or twitter. (links at the bottom)  
 
+Here's some basic information about me that might end up on my website at some point, if I can be bothered:  
 Hardware:  
 ###########  
 I custom built my PC:  
@@ -53,6 +48,11 @@ I listen to a lot of music while I do stuff (This music is some of the best):
         PJ Harvey  
         Powerwolf
 
-Of course I like programming. I'm most familiar with python, although I am trying to learn the C languages as well as shell scripting, but I'm struggling to find the time. At the moment I'm mainly using Unreal Engine's visual scripting engine. 
+Of course I like programming. I'm most familiar with python, although I am trying to learn the C languages as well as shell scripting, but I'm struggling to find the time. At the moment I'm mainly using Unreal Engine's visual scripting engine.  
+
+Links:  
+[Susseratal.me.uk](susseratal.me.uk)  
+[Youtube](https://www.youtube.com/channel/UC0iPDOFyP_TlPgiKEZT1i8g)  
+[Twitter](twitter.com/@jtfjyrx)
 
 ~ Iain xx
