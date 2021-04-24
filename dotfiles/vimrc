@@ -16,3 +16,5 @@ colorscheme torte
 :nmap <C-s> :set spell<CR>
 :nmap <C-a> :set invspell<CR>
 :nmap ; :
+let @f='o        - [ ] '
+let @g='o        - [x] '
