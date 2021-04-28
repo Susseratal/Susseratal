@@ -1,5 +1,17 @@
 Capslock::Esc
 
-^g::
-Send Hello World
-return ;I just threw this in as a reminder of how to print text
+^y::
+Send youtube.com{Enter}
+return
+
+::yo::Hello
+
+::how::
+MsgBox You have typed the forbidden word
+return
+
+:*:currentdatetime::
+FormatTime, CurrentDateTime,, M/d/yyyy h:mm tt
+SendInput %CurrentDateTime%
+return
+
