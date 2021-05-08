@@ -15,7 +15,7 @@ I custom built my PC:
         RAM - 16 Gigabytes DDR4 @3000 MHz  
         Graphics card - GeForce 1660 Super  
         Keyboard(s) - Drevo Tyrfing V2 with OUTEMU blue switches  
-                    - Drevo Gramr with OUTEMU brown switches
+                    - Drevo Gramr with OUTEMU brown switches  
         Mouse - Logitech G402
 
 But also have a mid 2012 era Macbook air, which I'm going to replace with something running linux (probably arch based on prior experience playing around) when it finally up and dies
