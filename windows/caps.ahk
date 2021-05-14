@@ -27,12 +27,6 @@ sleep 7
 Send discord.com/app{Enter}
 return
 
-#^t::
-Send ^t
-sleep 7
-Send tumblr.com/blog/iain-games-fmp{Enter}
-return
-
 #v::
 Run D:\Vim\vim82\gvim.exe
 return
