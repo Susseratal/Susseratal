@@ -12,6 +12,11 @@ Games List (4/10):
         - [x] Persona 5
         - [x] Bloodborne
         - [ ] Rogue
+        - [ ] Ghostrunner
+        - [ ] Skyrim
+        - [ ] 
+        - [ ] 
+        - [ ] 
 
 Media (0/10): 
 
