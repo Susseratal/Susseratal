@@ -5,29 +5,43 @@
         | |  | |  __/ (_| | | (_| | | \__ \ |_ 
         |_|  |_|\___|\__,_|_|\__,_|_|_|___/\__|
 
-Games List (4/10):  
+Games List (5/10):  
 
         - [x] Recettear
         - [x] Papers Please
         - [x] Persona 5
         - [x] Bloodborne
-        - [ ] Rogue
+        - [x] Rogue
+        - [ ] Nethack
         - [ ] Ghostrunner
         - [ ] Skyrim
-        - [ ] 
-        - [ ] 
-        - [ ] 
+        - [ ] The Binding of Isaac
+        - [ ] FTL: Faster than Light
 
 Media (0/10): 
 
         - [ ] Schindlers list
+        - [ ] 
+        - [ ] 
+        - [ ] 
+        - [ ] 
+        - [ ] 
+        - [ ] 
+        - [ ] 
+        - [ ] 
+        - [ ] 
 
 Wider World (0/6):  
 
         - [ ] The River Styx and boatman Charon greek mythology
+        - [ ] 
+        - [ ] 
+        - [ ] 
+        - [ ] 
+        - [ ] 
 
-Companies or Creators (0/3):  
+Companies or Creators (2/3):  
 
-        - [ ] Lucas Pope
-        - [ ] Hidetaka Miyazaki
+        - [x] Lucas Pope
+        - [x] Hidetaka Miyazaki
         - [ ] 
