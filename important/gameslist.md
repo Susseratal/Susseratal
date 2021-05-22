@@ -5,13 +5,18 @@
         | |  | |  __/ (_| | | (_| | | \__ \ |_ 
         |_|  |_|\___|\__,_|_|\__,_|_|_|___/\__|
 
+<<<<<<< HEAD
 Games List (10/10):  
+=======
+Games List (5/10):  
+>>>>>>> 44b9898ac1de7c8d5b26b004f40268c3b4e29f1b
 
         - [x] Recettear
         - [x] Papers Please
         - [x] Persona 5
         - [x] Bloodborne
         - [x] Rogue
+<<<<<<< HEAD
         - [x] Ghostrunner
         - [x] Skyrim
         - [x] Nethack
@@ -45,3 +50,38 @@ Companies or Creators (3/3):
         - [x] Lucas Pope
         - [x] Hidetaka Miyazaki
         - [x] Atlas and the Persona games
+=======
+        - [ ] Nethack
+        - [ ] Ghostrunner
+        - [ ] Skyrim
+        - [ ] The Binding of Isaac
+        - [ ] FTL: Faster than Light
+
+Media (0/10): 
+
+        - [ ] Schindlers list
+        - [ ] 
+        - [ ] 
+        - [ ] 
+        - [ ] 
+        - [ ] 
+        - [ ] 
+        - [ ] 
+        - [ ] 
+        - [ ] 
+
+Wider World (0/6):  
+
+        - [ ] The River Styx and boatman Charon greek mythology
+        - [ ] 
+        - [ ] 
+        - [ ] 
+        - [ ] 
+        - [ ] 
+
+Companies or Creators (2/3):  
+
+        - [x] Lucas Pope
+        - [x] Hidetaka Miyazaki
+        - [ ] 
+>>>>>>> 44b9898ac1de7c8d5b26b004f40268c3b4e29f1b
