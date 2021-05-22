@@ -22,10 +22,10 @@ Media (2/10):
 
         - [x] Crypts in HP Lovecraft stories
         - [x] Black Books?
-        - [ ] Godfather (mafia)
-        - [ ] Scarface
-        - [ ] Breaking bad (from scarface)
-        - [ ] Shops in games - RE4/8, Beedle from Zelda
+        - [x] Godfather (mafia)
+        - [x] Scarface
+        - [x] Breaking bad (from scarface)
+        - [x] Beedle from Zelda
         - [ ] 
         - [ ] 
         - [ ] 
