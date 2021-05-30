@@ -12,36 +12,36 @@ Games List (5/10):
         - [x] Persona 5
         - [x] Bloodborne
         - [x] Rogue
-        - [ ] Nethack
-        - [ ] Ghostrunner
-        - [ ] Skyrim
-        - [ ] The Binding of Isaac
-        - [ ] FTL: Faster than Light
+        - [x] Ghostrunner
+        - [x] Skyrim
+        - [x] Nethack
+        - [x] The Binding of Isaac
+        - [x] FTL: Faster than Light
 
-Media (0/10): 
+Media (2/10): 
 
-        - [ ] Schindlers list
-        - [ ] 
-        - [ ] 
-        - [ ] 
-        - [ ] 
-        - [ ] 
-        - [ ] 
-        - [ ] 
-        - [ ] 
-        - [ ] 
-
-Wider World (0/6):  
-
-        - [ ] The River Styx and boatman Charon greek mythology
-        - [ ] 
+        - [x] Crypts in HP Lovecraft stories
+        - [x] Black Books?
+        - [x] Godfather (mafia)
+        - [x] Scarface
+        - [x] Breaking bad (from scarface)
+        - [x] Beedle from Zelda
         - [ ] 
         - [ ] 
         - [ ] 
         - [ ] 
 
-Companies or Creators (2/3):  
+Wider World (5/6):  
+
+        - [x] The River Styx and boatman Charon greek mythology
+        - [x] Ration tokens during war time
+        - [x] Shop research
+        - [x] Crypts under England
+        - [ ] Origins of trading
+        - [x] Al Capone (different mafia around the world)
+
+Companies or Creators (3/3):  
 
         - [x] Lucas Pope
         - [x] Hidetaka Miyazaki
-        - [ ] 
+        - [x] Atlas and the Persona games
