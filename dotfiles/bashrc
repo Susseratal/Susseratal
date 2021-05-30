@@ -8,6 +8,7 @@
 #####################################
 
 # ================  PS1  ====================
+#In OSX formatting, may need changing for linux
 PS1_magenta='\[\e[35;1m\]'
 PS1_normal='\[\e[0m\]'
 PS1_curdir='$(truncate "\w")'
@@ -16,20 +17,17 @@ PS1="\u ${PS1_magenta}${PS1_curdir}${PS1_normal}\$ "
 # ================  Aliases  ====================
 alias b="w3m"
 alias c="clear; ls"
-alias cdp="cd /Users/iainwalker/Programming/GitKraken/"
-alias cyberpunk="python /Users/iainwalker/Programming/GitKraken/Susseratal/python/cyberpunk.py"
+alias cdp="cd " #cd to directory where I store programming stuff
+alias dot="clear; dotnet run main.cs"
 alias ga="git add"
 alias gp="git pull"
 alias gs="git status"
 alias gtc="git clone"
 alias gtodo="git commit -m 'updated todo list'"
-alias kee="keepassxc-cli"
-alias kls="keepassxc-cli ls /Users/iainwalker/iainpasswords.kdbx"
-alias kodi="open /Applications/Kodi.app"
+alias ipaddress="ipconfig getifaddr en0"
 alias l="ls"
 alias la="ls -a"
 alias main="clear; python main.py"
-alias dot="clear; dotnet run main.cs"
 alias mup="mupdf-gl"
 alias mutt="neomutt"
 alias o="open"
@@ -38,17 +36,17 @@ alias power="python computer.py"
 alias py="python"
 alias rm="rm -i"
 alias v="vi"
-alias ipaddress="ipconfig getifaddr en0"
 
 # ================  Export  ====================
-export PATH=/Users/iainwalker/bin:/Applications/Vim.app/Contents/bin:/usr/local/opt/node@6/bin:/.local/bin:$PATH
+export PATH=$PATH #Put your own path here
 export CLICOLOR=1
-export LSCOLORS=Gafxcxdxbaegedabagacad
-export BASH_SILENCE_DEPRECATION_WARNING=1
+export LSCOLORS=Gafxcxdxbaegedabagacad # Both colour based things, would be different on linux
+export BASH_SILENCE_DEPRECATION_WARNING=1 #Make bash shut up about switching to zsh
 
 # ================  Eval  ====================
 eval "$(pyenv init -)"
 eval "$(pyenv virtualenv-init -)"
+#Pyenv stuff, always very good to have
 
 # ================  Brew  ====================
 . $(brew --prefix asdf)/asdf.sh
@@ -59,6 +57,7 @@ if [ -f /Users/iainwalker/.tnsrc ]; then
     source /Users/iainwalker/.tnsrc 
 fi
 ###-tns-completion-end-###
+#I have no idea what this does, but I think it's important
 
 # ================  Functions  ====================
 function cd() {
@@ -75,21 +74,7 @@ function truncate() {
   fi
 }
 
-function vi() {
-  args=
-  while [ "${1:0:1}" = "-" ]; do
-    args="$args $1"
-    shift
-  done
-  if [ "$*" ]; then
-    for f in "$@"; do
-      mvim $args "$f"
-    done
-  else
-    mvim $args
-  fi
-}
-
+#Homebrew stuff - not necessary on linux - OSX specific
 if type brew &>/dev/null; then
   HOMEBREW_PREFIX="$(brew --prefix)"
   if [[ -r "${HOMEBREW_PREFIX}/etc/profile.d/bash_completion.sh" ]]; then
@@ -102,4 +87,4 @@ if type brew &>/dev/null; then
 fi
 
 # ================  Scripts to run on startup  ====================
-#python ~/Programming/GitKraken/Susseratal/python/cyberpunk.py
+#Whatever you may want here
