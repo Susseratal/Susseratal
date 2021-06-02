@@ -45,21 +45,45 @@ Run Chrome
 FormatTime, CurrentDateTime,, M/d/yyyy h:mm tt
 SendInput %CurrentDateTime%
 return
+
 ;========================================================================================
 
 ;Create a profile
 Profile := 1 ;default
-F1::Profile := 1
+
+F1::
+Profile := 1
+TrayTip, Mode:, Normal Mode
+SetTimer, HideTrayTip, -1000 ;make the tooltip go away after 1 second
+return
+
 F2::Profile := 2
+TrayTip, Mode:, No Arrow Mode
+SetTimer, HideTrayTip, -1000 ;make the tooltip go away after 1 second
+return
+
 F3::Profile := 3
+TrayTip, Mode:, Mouse Mode
+SetTimer, HideTrayTip, -1000 ;make the tooltip go away after 1 second
+return
+
 F4::Profile := 4
+TrayTip, Mode:, Vim Mode
+SetTimer, HideTrayTip, -1000 ;make the tooltip go away after 1 second
+return
+
+F5::
+TrayTip, Mode:, % (Profile=1 ? "Normal Mode" : Profile=2 ? "No Arrow mode" : Profile=3 ? "Mouse mode" : Profile=4 ? "Vim mode")
+SetTimer, HideTrayTip, -1000 ;make the tooltip go away after 1 second
+return
 
 ;========================================================================================
 
-RemoveToolTip:
-ToolTip
-return
-;useless at the moment, will be very useful when I can get tooltips working
+;Small function to make the tooltip go away
+;Won't work if you have all notifications turned off
+HideTrayTip(){
+        TrayTip
+}
 
 ;========================================================================================
 
