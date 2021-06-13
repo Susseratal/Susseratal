@@ -7,9 +7,15 @@
 #                                   #
 #####################################
 
-# ================  PS1  ====================
+# ================  PS1 (OSX syntax)  ====================
 PS1_magenta='\[\e[35;1m\]'
 PS1_normal='\[\e[0m\]'
+PS1_curdir='$(truncate "\w")'
+PS1="\u ${PS1_magenta}${PS1_curdir}${PS1_normal}\$ "
+
+# ================  PS1 (Linux syntax)  ====================
+PS1_magenta='\[\e[0;35m\]'
+PS1_normal='\[\e[0;32m\]'
 PS1_curdir='$(truncate "\w")'
 PS1="\u ${PS1_magenta}${PS1_curdir}${PS1_normal}\$ "
 
